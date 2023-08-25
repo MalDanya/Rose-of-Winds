@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Resources/верх_дуга (темная).png</file>
+        <file>Resources/Иконка звук (светлая).png</file>
+        <file>Resources/Иконка звук (темная).png</file>
+        <file>Resources/Иконка Звука нет (светлый).png</file>
+        <file>Resources/Иконка Звука нет (темный).png</file>
+        <file>Resources/Иконка Инверсия (для светлого).png</file>
+        <file>Resources/Иконка Инверсия (для темного).png</file>
+        <file>Resources/Иконка Предупреждение (серый).png</file>
+        <file>Resources/Иконка Предупреждение Желтый.png</file>
+        <file>Resources/Иконка Предупреждение Красный.png</file>
+        <file>Resources/Иконка_без фона  Инверсия (для темного).png</file>
+        <file>Resources/Иконка_без фона Инверсия (для светлого).png</file>
+        <file>Resources/Калькулятор.png</file>
+        <file>Resources/кнопка  EN(темный).png</file>
+        <file>Resources/кнопка  ру (светлый).png</file>
+        <file>Resources/кнопка  ру (темный).png</file>
+        <file>Resources/кнопка EN (темный).png</file>
+        <file>Resources/Кораблик светлый_.png</file>
+        <file>Resources/Кораблик темный_.png</file>
+        <file>Resources/Корабль свет_.png</file>
+        <file>Resources/Корабль темн_.png</file>
+        <file>Resources/круг_внутри (малый)(светлый).png</file>
+        <file>Resources/круг_внутри (малый)(темная).png</file>
+        <file>Resources/Курс (темная).png</file>
+        <file>Resources/Курс(светлый) .png</file>
+        <file>Resources/Область.png</file>
+        <file>Resources/Пример Всплывающее окно.png</file>
+        <file>Resources/Пример области.png</file>
+        <file>Resources/светлый.png</file>
+        <file>Resources/Стрелка (влево темная).png</file>
+        <file>Resources/Стрелка (вправо темная).png</file>
+        <file>Resources/Стрелка (светлая).png</file>
+        <file>Resources/Стрелка (темная).png</file>
+        <file>Resources/Стрелка влево.png</file>
+        <file>Resources/Стрелка вправо.png</file>
+        <file>Resources/темный.png</file>
+        <file>Resources/Шкала(светлый).png</file>
+        <file>Resources/Шкала(темная).png</file>
+        <file>Resources/верх_дуга (светлый).png</file>
+    </qresource>
+</RCC>
